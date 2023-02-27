@@ -1,2 +1,0 @@
-# HauiLapTrinhPyThon
-DaiHocCongNghiepHN
